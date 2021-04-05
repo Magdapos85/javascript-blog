@@ -1,4 +1,4 @@
-use strict;
+'use strict';
 const titleClickHandler = function(){
         event.preventDefault();
         const clickedElement = this;
